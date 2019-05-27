@@ -10,6 +10,7 @@ public class App
     {
         System.out.println( "This is the first tester class" ); 
         System.out.println( "Test" );
+        System.out.println( "Test" );
 
     }
 }
