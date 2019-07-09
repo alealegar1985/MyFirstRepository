@@ -1,0 +1,5 @@
+test_lambda\basicLambda\beans\ResponseObj.class
+test_lambda\basicLambda\beans\RequestObj.class
+test_lambda\basicLambda\MyLambdaExample.class
+test_lambda\basicLambda\MyLambdaDynamoDb.class
+test_lambda\basicLambda\MyLambda2Example.class
